@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DA063B112C30882700B0A303 /* RestuarReviewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA063B102C30882700B0A303 /* RestuarReviewApp.swift */; };
-		DA063B132C30882700B0A303 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA063B122C30882700B0A303 /* ContentView.swift */; };
+		DA063B132C30882700B0A303 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA063B122C30882700B0A303 /* LoginView.swift */; };
 		DA063B152C30882900B0A303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA063B142C30882900B0A303 /* Assets.xcassets */; };
 		DA063B182C30882900B0A303 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA063B172C30882900B0A303 /* Preview Assets.xcassets */; };
 		DA5DD7462C30959B004E8A35 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = DA5DD7452C30959B004E8A35 /* FirebaseAnalytics */; };
@@ -45,7 +45,7 @@
 /* Begin PBXFileReference section */
 		DA063B0D2C30882700B0A303 /* RestuarReview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestuarReview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA063B102C30882700B0A303 /* RestuarReviewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestuarReviewApp.swift; sourceTree = "<group>"; };
-		DA063B122C30882700B0A303 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		DA063B122C30882700B0A303 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		DA063B142C30882900B0A303 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA063B172C30882900B0A303 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DA5DD77D2C3097F7004E8A35 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -110,7 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				DA063B102C30882700B0A303 /* RestuarReviewApp.swift */,
-				DA063B122C30882700B0A303 /* ContentView.swift */,
+				DA063B122C30882700B0A303 /* LoginView.swift */,
 				DA063B142C30882900B0A303 /* Assets.xcassets */,
 				DA5DD77D2C3097F7004E8A35 /* GoogleService-Info.plist */,
 				DA063B162C30882900B0A303 /* Preview Content */,
@@ -230,7 +230,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA063B132C30882700B0A303 /* ContentView.swift in Sources */,
+				DA063B132C30882700B0A303 /* LoginView.swift in Sources */,
 				DA063B112C30882700B0A303 /* RestuarReviewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
